@@ -2,10 +2,10 @@
 
 #personal information storage
 
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-graduation_semester = "Spring 2028"
+full_name = "Chloe Barnes"
+student_email = "cebarnes3@ncat.edu"
+hometown = "Hampton, VA"
+graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 #Academic data organization (list)
@@ -109,4 +109,5 @@ print("Total Courses Completed:", len(completed))
 print("Current Academic Load:", academic_load, "weekly commitments")
 print("Entertainment Backlog:", len(entertainment), "items")
 print("Current Hobbies:", len(hobbies), "activities")
+
 print("================================================================")
