@@ -25,11 +25,11 @@ birthday = ("Birthday", 5, 22, 2006)
 
 #Intrest tracking (exact values)
 
-current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_learn = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_intrest = {"Software development", "Web development", "Data science", "Game development"}
-hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "teamwork"}
+skills_learn = {"JavaScript", "Data structures", "C++", "Communication", "Public speaking"}
+career_intrest = {"Software development", "Web development", "Data science", "Software Architect"}
+hobbies = {"Gaming", "Golf", "Swimming", "Soccer", "Music"}
+entertainment = {"Games", "Trolls", "Avtar", "hidden figures", "rio"}
 
 #organization mapping (dictionary values)
 
@@ -111,4 +111,5 @@ print("Entertainment Backlog:", len(entertainment), "items")
 print("Current Hobbies:", len(hobbies), "activities")
 
 print("================================================================")
+
 
