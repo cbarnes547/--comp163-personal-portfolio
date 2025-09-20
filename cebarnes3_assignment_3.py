@@ -36,9 +36,9 @@ entertainment = {"Games", "Trolls", "Avtar", "hidden figures", "rio"}
 credit_dictionary = {course[0]: credit_hours[0], course[1]: credit_hours[1], course[2]: credit_hours[2], course[3]: credit_hours[3]}
 professors_directory = {course[0]: "Prof. Rhodes", course[1]: "Dr. Lee", course[2]: "Dr. Martinez", course[3]: "Dr. Brown"}
 room_directory = {course[0]: "M-Eric 300", course[1]: "Marteena 201", course[2]: "Crosby 121", course[3]: "Crosby 210"}
-budget_directory = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
+budget_directory = {"Food": 20, "Entertainment": 30, "Books": 1, "Transportation": 30}
 study_hours = {"Programming": 10, "Math": 8, "English": 4, "History": 3}
-contact_directory = {contact[0]: contact[2], "Roommate": "336-555-7821", "Academic Advisor": "336-334-5000"}
+contact_directory = {contact[0]: contact[2], "Charis": "757-585-7812", "Saniyah": "456-384-5090"}
 
 #Required calculations
 
@@ -111,5 +111,6 @@ print("Entertainment Backlog:", len(entertainment), "items")
 print("Current Hobbies:", len(hobbies), "activities")
 
 print("================================================================")
+
 
 
