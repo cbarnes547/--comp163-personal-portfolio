@@ -10,10 +10,10 @@ major = "Computer Science"
 
 #Academic data organization (list)
 
-course = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
-completed = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
+course = ["COMP 163", "MATH 131", "ENG 100", "HIS 106"]
+completed = ["English", "Stats", "Precalculus", "Spanish II", "World History"]
 credit_hours = [3, 3, 3, 3]
-gpa = [3.2, 3.6, 3.4, 3.7]
+gpa = [3.4, 3.6, 3.2, 3.8]
 
 #Contact information storage (tuple)
 
@@ -111,3 +111,4 @@ print("Entertainment Backlog:", len(entertainment), "items")
 print("Current Hobbies:", len(hobbies), "activities")
 
 print("================================================================")
+
